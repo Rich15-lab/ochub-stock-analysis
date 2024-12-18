@@ -1,0 +1,11 @@
+*.jpg
+*.png
+*.csv
+*.mov
+*.docx
+*.pdf
+*.spec
+build/
+dist/
+*.photoslibrary
+
